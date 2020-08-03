@@ -1,0 +1,1 @@
+# Given-a-list-slice-it-into-a-3-equal-chunks-and-rever-each-list
